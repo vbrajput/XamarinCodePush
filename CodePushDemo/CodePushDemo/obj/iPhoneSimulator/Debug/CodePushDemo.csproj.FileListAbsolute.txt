@@ -1,0 +1,9 @@
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/bin/iPhoneSimulator/Debug/CodePushDemo.exe
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/bin/iPhoneSimulator/Debug/CodePushDemo.pdb
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_PartialAppManifest.items
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/actool/_BundleResourceWithLogicalName.items
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3/optimized/
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/obj/iPhoneSimulator/Debug/CodePushDemo.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/obj/iPhoneSimulator/Debug/CodePushDemo.exe
+/Users/admin/Desktop/Vishal-Oct/CodePushDemo/CodePushDemo/obj/iPhoneSimulator/Debug/CodePushDemo.pdb

@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F245782D-47EA-4EE1-8A56-437966BBDEB2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CodePushDemo Status">
+    <Files>
+      <File FileName="CodePushDemo/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="CodePushDemo Status" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CodePushDemo" expanded="True">
+            <Node name="CodePushDemo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CodePushDemo PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.24E706CF-E661-4496-94CF-B6B35EA6048D" />
+  <MultiItemStartupConfigurations />
+</Properties>
