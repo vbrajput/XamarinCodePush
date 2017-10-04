@@ -1,5 +1,7 @@
 ﻿using Foundation;
 using UIKit;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Distribute;
 
 namespace CodePushDemo
 {
@@ -14,8 +16,13 @@ namespace CodePushDemo
         public   UIWindow window;
         public override bool FinishedLaunching(UIApplication application, NSDictionary launchOptions)
         {
-            // Override point for customization after application launch.
-            // If not required for your application you can safely delete this method
+			// Override point for customization after application launch.
+			// If not required for your application you can safely delete this method
+
+			Distribute.DontCheckForUpdatesInDebug();
+			MobileCenter.Start("bf89a715-0e3f-48de-9556-c281c97bdfa9", typeof(Distribute));
+
+
 
             window = new UIWindow(UIScreen.MainScreen.Bounds);
             window.RootViewController = new UINavigationController(new MyFirstView());
