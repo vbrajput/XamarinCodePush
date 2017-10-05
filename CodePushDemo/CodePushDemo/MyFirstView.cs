@@ -17,7 +17,7 @@ namespace CodePushDemo
 
             btnTest.TouchUpInside+= (sender, e) => 
             {
-                UIAlertView al = new UIAlertView("Testing", txtField.Text, null, "OKay", null);
+                UIAlertView al = new UIAlertView("Distribute Demo", txtField.Text, null, "OKay", null);
                 al.Show();
             };
             // Perform any additional setup after loading the view, typically from a nib.

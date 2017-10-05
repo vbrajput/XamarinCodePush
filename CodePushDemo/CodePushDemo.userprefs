@@ -2,19 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="CodePushDemo Status">
     <Files>
       <File FileName="CodePushDemo/AppDelegate.cs" Line="31" Column="10" />
+      <File FileName="CodePushDemo/MyFirstView.cs" Line="13" Column="43" />
       <File FileName="CodePushDemo Status" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="CodePushDemo" expanded="True">
-            <Node name="CodePushDemo" expanded="True">
-              <Node name="AppDelegate.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
